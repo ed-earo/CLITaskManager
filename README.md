@@ -10,4 +10,4 @@ A simple Python CLI app with CRUD operations.
 
 ## Run
 ```bash
-python task_manager.py
+python CLITaskManager.py
